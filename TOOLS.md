@@ -37,10 +37,26 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
+## MiniMax / 抖音
+
+```markdown
+#### 视频发布偏好
+- 旁白必须用中文 TTS（speech-2.8-hd），不要英文
+- 视频主题风格：电影质感、高饱和色调（炫技类）、冲击力强
+
+#### API Key
+- MiniMax CN: sk-cp-LYTvK2pbGQWpOheDDkI3nH9-GrC0XdAADVpPMSvRhmnyzAm3v4eaNzQnCK97WnwWtvYh_4ZmYYlxL6i2Lkht6UtMJCpbMsrKOZ7ODuRG_A9YVe9Uqf6L0M0
+- 视频模型：Hailuo-2.3 / Hailuo-2.3-Fast（Fast版仅支持I2V不支持T2V）
+```
+
 ## GitHub
 
 ```markdown
-### GitHub Token (pener5577)
+#### 网络
+
+- 宿主机 IP: 192.168.57.20
+- OpenClaw 容器 IP: 192.168.57.2
+- 网段: 192.168.57.0/24 (pener5577)
 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
 权限: repo, delete_repo, workflow（当前使用）
 

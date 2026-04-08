@@ -1,9 +1,0 @@
-README.md
-setup.py
-obs_cli.egg-info/PKG-INFO
-obs_cli.egg-info/SOURCES.txt
-obs_cli.egg-info/dependency_links.txt
-obs_cli.egg-info/entry_points.txt
-obs_cli.egg-info/not-zip-safe
-obs_cli.egg-info/requires.txt
-obs_cli.egg-info/top_level.txt
